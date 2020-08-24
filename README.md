@@ -9,6 +9,8 @@ pip3.8 install flask-wtf
 
 pip3.8 install flask-login
 
+pip3.8 install flask-bootstrap
+
 # migrate database
 pip3.8 install flask-migrate
 
