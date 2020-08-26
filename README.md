@@ -27,3 +27,6 @@ pip3.8 install flask-mail
 pip3.8 install pyjwt
 
 pip3.8 install email-validator
+
+# dates & times
+pip3.8 install flask-moment
