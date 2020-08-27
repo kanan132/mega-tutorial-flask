@@ -34,11 +34,12 @@ pip3.8 install flask-moment
 # tranlation with babel
 pip3.8 install flask-babel
 
-/for extracting changes/(venv) $ pybabel extract -F babel.cfg -k _l -o messages.pot
+/for extracting changes/  (venv) $ pybabel extract -F babel.cfg -k _l -o messages.pot
 
-/make direction for changed words/(venv) $ pybabel init -i messages.pot -d app/translations -l es
+/make direction for changed words/  (venv) $ pybabel init -i messages.pot -d app/translations -l es
 
 /for updating changes you may use/
 
 (venv) $ pybabel extract -F babel.cfg -k _l -o messages.pot .
+
 (venv) $ pybabel update -i messages.pot -d app/translations
