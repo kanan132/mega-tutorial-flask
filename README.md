@@ -47,5 +47,6 @@ pip3.8 install flask-babel
 # work with ajax
 pip install guess_language-spirit
 
+pip install requests
 
 
