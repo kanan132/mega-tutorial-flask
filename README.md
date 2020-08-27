@@ -30,3 +30,6 @@ pip3.8 install email-validator
 
 # dates & times
 pip3.8 install flask-moment
+
+# tranlation with babel
+pip3.8 install flask-babel
