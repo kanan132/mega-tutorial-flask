@@ -43,3 +43,9 @@ pip3.8 install flask-babel
 (venv) $ pybabel extract -F babel.cfg -k _l -o messages.pot .
 
 (venv) $ pybabel update -i messages.pot -d app/translations
+
+# work with ajax
+pip install guess_language-spirit
+
+
+
