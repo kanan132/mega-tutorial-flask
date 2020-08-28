@@ -24,11 +24,11 @@ msgstr "Por favor ingrese para acceder a esta página."
 
 #: app/translate.py:10
 msgid "Error: the translation service is not configured."
-msgstr ""
+msgstr "Error: el servicio de traducciones no está configurado."
 
 #: app/translate.py:18
 msgid "Error: the translation service failed."
-msgstr ""
+msgstr "Error el servicio de traducciones ha fallado."
 
 #: app/auth/email.py:8
 msgid "[Microblog] Reset Your Password"
@@ -134,7 +134,7 @@ msgstr "El usuario %(username)s no ha sido encontrado."
 
 #: app/main/routes.py:107
 msgid "You cannot follow yourself!"
-msgstr ""
+msgstr "¡No te puedes dejar de seguir a tí mismo!"
 
 #: app/main/routes.py:111
 #, python-format
@@ -157,7 +157,7 @@ msgstr "%(username)s dijo %(when)s"
 
 #: app/templates/_post.html:25
 msgid "Translate"
-msgstr ""
+msgstr "Traducir"
 
 #: app/templates/base.html:4
 msgid "Welcome to Microblog"
@@ -177,7 +177,7 @@ msgstr "Salir"
 
 #: app/templates/base.html:66
 msgid "Error: Could not contact server."
-msgstr ""
+msgstr "Error: el servidor no pudo ser contactado."
 
 #: app/templates/index.html:5
 #, python-format
