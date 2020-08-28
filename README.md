@@ -11,6 +11,8 @@ pip3.8 install flask-login
 
 pip3.8 install flask-bootstrap
 
+pip install python-dotenv
+
 # migrate database
 pip3.8 install flask-migrate
 
@@ -49,4 +51,5 @@ pip install guess_language-spirit
 
 pip install requests
 
-
+# elactissearch
+pip install elasticsearch
